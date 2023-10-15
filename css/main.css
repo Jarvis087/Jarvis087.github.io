@@ -1446,7 +1446,7 @@ pre code {
   width: 100%;
 }
 .with-love {
-  color: #78b9d2;
+  color: #fedd04;
   display: inline-block;
   margin: 0 5px;
   animation: icon-animate 1.33s ease-in-out infinite;
@@ -2432,7 +2432,7 @@ header.header {
   vertical-align: middle;
 }
 .links-of-author a::before {
-  background: #25ffff;
+  background: #ffff25;
   display: inline-block;
   margin-right: 3px;
   transform: translateY(-2px);
